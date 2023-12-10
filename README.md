@@ -10,7 +10,8 @@ In the Jupyer notebook that you will find in this repository, the following step
 3. Slow feature analysis is performed on the arrays.
 4. The resulting binary change maps are plotted.
 
-**Full report** can be accessed here: 
+**Full report** can be accessed here: **Data Study Group Team**. Data Study Group Final Report: Peak District National Park Authority - Detecting land cover change in the Peak District National Park using multispectral aerial photography. _The Alan Turing Institute._ (2023). doi: 10.5281/zenodo.10090623
 
 **Sample results**:
+![sfa copy](https://github.com/matrix-mayank/Slow-Feature-Analysis-on-RGB-Image-Data/assets/57093503/d71aa84a-a593-461a-9bb6-e1dc0d667229)
 
